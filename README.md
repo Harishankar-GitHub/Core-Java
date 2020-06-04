@@ -45,3 +45,7 @@
 ###### MinAndMaxInputChallenge
 ###### InputCalculator
 ###### PaintJob
+
+## OOP
+##### SumCalculator
+##### Person
