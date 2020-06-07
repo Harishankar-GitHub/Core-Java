@@ -52,3 +52,4 @@
 ###### Constructors-Part-1
 ###### Constructors-Part-2
 ###### WallArea
+###### Point
