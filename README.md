@@ -54,3 +54,4 @@
 ###### WallArea
 ###### Point
 ###### Carpet Cost Calculator
+###### ComplexOperations
