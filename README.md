@@ -66,3 +66,4 @@
 ## Arrays, Java Inbuilt Lists, Autoboxing and Unboxing
 ###### ArrayChallenge
 ###### MinElementChallenge
+###### ReverseArrayChallenge
