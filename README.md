@@ -62,3 +62,6 @@
 ###### Encapsulation-Challenge
 ###### PolymorphismChallenge
 ###### OOP Master Challenge Exercise
+
+## Arrays, Java Inbuilt Lists, Autoboxing and Unboxing
+###### ArrayChallenge
