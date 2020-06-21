@@ -67,3 +67,4 @@
 ###### ArrayChallenge
 ###### MinElementChallenge
 ###### ReverseArrayChallenge
+###### ArrayListChallenge
