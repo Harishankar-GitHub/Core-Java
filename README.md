@@ -70,3 +70,6 @@
 ###### ArrayListChallenge
 ###### AutoboxingAndUnboxingChallenge
 ###### LinkedListChallenge
+
+## Inner and Abstract Classes & Interfaces
+###### Interface Challenge
