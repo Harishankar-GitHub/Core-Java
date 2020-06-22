@@ -69,3 +69,4 @@
 ###### ReverseArrayChallenge
 ###### ArrayListChallenge
 ###### AutoboxingAndUnboxingChallenge
+###### LinkedListChallenge
