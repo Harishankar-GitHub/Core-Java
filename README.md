@@ -75,3 +75,6 @@
 ###### Interface Challenge
 ###### Inner Class Challenge
 ###### Abstract Class Challenge
+
+## Java Generics
+###### Generics Challenge
