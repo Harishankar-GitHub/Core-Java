@@ -82,3 +82,4 @@
 ## Collections
 ###### Comparable & Comparator
 ###### Adventure Game Challenge
+###### Immutable Class Challenge
