@@ -85,3 +85,4 @@
 ###### Immutable Class Challenge
 ###### Sets & HashSet
 ###### Equals & HashCode
+###### Potential issue with equals() and sub classing
