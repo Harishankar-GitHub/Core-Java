@@ -84,3 +84,4 @@
 ###### Adventure Game Challenge
 ###### Immutable Class Challenge
 ###### Sets & HashSet
+###### Equals & HashCode
