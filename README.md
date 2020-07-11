@@ -91,3 +91,7 @@
 ###### Set Challenge
 ###### Sorted Collections & Unmodifiable Maps
 ###### Collections Challenge
+
+## Regular Expressions
+###### Regular Expressions
+###### Regular Expressions Challenge Part 1
